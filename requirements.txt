@@ -1,0 +1,8 @@
+
+npm install @types/react-router-dom
+npm install @tailwindcss/postcss
+
+# Common Tailwind-version issue fix
+npm uninstall @tailwindcss/postcss tailwindcss postcss autoprefixer
+npm install -D tailwindcss@3.4.3 postcss@8.4.38 autoprefixer@10.4.21
+
