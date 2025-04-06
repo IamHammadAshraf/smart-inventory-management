@@ -15,7 +15,7 @@ export default function Login() {
   return (
     <div
   className="min-h-screen flex items-center justify-center bg-cover bg-center"
-  style={{ backgroundImage: "url('/images/ghibli-login-bg.png')" }}
+  style={{ backgroundImage: "url('/images/bg.jpg')" }}
 >
 
       <div className="max-w-md w-full space-y-8 p-8 rounded-lg backdrop-blur-md bg-white/60 shadow-2xl border border-white/40">
